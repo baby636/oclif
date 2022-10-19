@@ -26,8 +26,8 @@
     "qqjs": "^0.3.10",
     "sort-pjson": "^1.0.3",
     "tslib": "^2.0.0",
-    "yeoman-environment": "^2.3.4",
-    "yeoman-generator": "3",
+    "yeoman-environment": "^3.0.0",
+    "yeoman-generator": "5.0.0",
     "yosay": "^2.0.2"
   },
   "devDependencies": {
@@ -56,7 +56,7 @@
     "execa": "^0.10.0",
     "fancy-test": "^1.4.3",
     "globby": "^11.0.1",
-    "mocha": "^8.2.1",
+    "mocha": "^9.2.2",
     "npm-run-path": "^4.0.1",
     "nps": "^5.9.3",
     "shelljs": "^0.8.3",
