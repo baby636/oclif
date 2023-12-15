@@ -26,8 +26,8 @@
     "qqjs": "^0.3.10",
     "sort-pjson": "^1.0.3",
     "tslib": "^2.0.0",
-    "yeoman-environment": "^2.3.4",
-    "yeoman-generator": "3",
+    "yeoman-environment": "^3.0.0",
+    "yeoman-generator": "5.0.0",
     "yosay": "^2.0.2"
   },
   "devDependencies": {
