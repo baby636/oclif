@@ -8,8 +8,8 @@
   },
   "bugs": "https://github.com/oclif/oclif/issues",
   "dependencies": {
-    "@oclif/command": "^1.6",
-    "@oclif/config": "^1.12.6",
+    "@oclif/command": "^1.8.36",
+    "@oclif/config": "^1.18.17",
     "@oclif/errors": "^1.2.2",
     "@oclif/fixpack": "^2.3.0",
     "@oclif/plugin-help": "^3",
@@ -31,9 +31,9 @@
     "yosay": "^2.0.2"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.21.0",
+    "@oclif/dev-cli": "^1.26.10",
     "@oclif/plugin-legacy": "^1.1.4",
-    "@oclif/test": "^1.2.4",
+    "@oclif/test": "^3.0.0",
     "@types/chai": "^4.1.7",
     "@types/execa": "^0.9.0",
     "@types/fs-extra": "^9.0",
@@ -54,7 +54,7 @@
     "eslint-config-oclif": "^3.1.0",
     "eslint-config-oclif-typescript": "^0.2.0",
     "execa": "^0.10.0",
-    "fancy-test": "^1.4.3",
+    "fancy-test": "^3.0.16",
     "globby": "^11.0.1",
     "mocha": "^8.2.1",
     "npm-run-path": "^4.0.1",
