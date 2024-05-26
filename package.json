@@ -26,8 +26,8 @@
     "qqjs": "^0.3.10",
     "sort-pjson": "^1.0.3",
     "tslib": "^2.0.0",
-    "yeoman-environment": "^2.3.4",
-    "yeoman-generator": "3",
+    "yeoman-environment": "^3.0.0",
+    "yeoman-generator": "6.0.0",
     "yosay": "^2.0.2"
   },
   "devDependencies": {
@@ -50,9 +50,9 @@
     "aws-sdk": "^2.443.0",
     "chai": "^4.2.0",
     "conventional-changelog-cli": "^2.0.17",
-    "eslint": "^7.3.0",
+    "eslint": "^9.0.0",
     "eslint-config-oclif": "^3.1.0",
-    "eslint-config-oclif-typescript": "^0.2.0",
+    "eslint-config-oclif-typescript": "^1.0.1",
     "execa": "^0.10.0",
     "fancy-test": "^1.4.3",
     "globby": "^11.0.1",
@@ -60,7 +60,7 @@
     "npm-run-path": "^4.0.1",
     "nps": "^5.9.3",
     "shelljs": "^0.8.3",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.2",
     "ts-node": "^9.0.0",
     "typescript": "3.8.3"
   },
