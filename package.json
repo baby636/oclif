@@ -59,7 +59,7 @@
     "mocha": "^8.2.1",
     "npm-run-path": "^4.0.1",
     "nps": "^5.9.3",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.10.0",
     "tmp": "^0.2.1",
     "ts-node": "^9.0.0",
     "typescript": "3.8.3"
