@@ -26,8 +26,8 @@
     "qqjs": "^0.3.10",
     "sort-pjson": "^1.0.3",
     "tslib": "^2.0.0",
-    "yeoman-environment": "^2.3.4",
-    "yeoman-generator": "3",
+    "yeoman-environment": "^3.2.0",
+    "yeoman-generator": "5.0.0",
     "yosay": "^2.0.2"
   },
   "devDependencies": {
@@ -60,7 +60,7 @@
     "npm-run-path": "^4.0.1",
     "nps": "^5.9.3",
     "shelljs": "^0.8.3",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "ts-node": "^9.0.0",
     "typescript": "3.8.3"
   },
